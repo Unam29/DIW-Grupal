@@ -1,0 +1,260 @@
+/* Registro */
+
+position: relative;
+width: 4907px;
+height: 7662px;
+
+background: #FFFFFF;
+
+
+/* 14766-playa 7 */
+
+position: absolute;
+width: 15162px;
+height: 18742px;
+left: -5289px;
+top: -2754px;
+
+background: url(14766-playa.jpg);
+
+
+/* Group 5 */
+
+position: absolute;
+width: 4579px;
+height: 5604px;
+left: 164px;
+top: 1438px;
+
+
+
+/* Rectangle 16 */
+
+position: absolute;
+width: 5584.98px;
+height: 4578.95px;
+left: 4742.9px;
+top: 1438px;
+
+background: rgba(229, 229, 229, 0.46);
+border-radius: 60px;
+transform: matrix(0, 1, -1, 0, 0, 0);
+
+
+/* Rectangle 17 */
+
+position: absolute;
+width: 5437.59px;
+height: 4467.76px;
+left: 228.32px;
+top: 6958.19px;
+
+background: rgba(255, 255, 255, 0.28);
+border-radius: 60px;
+transform: matrix(0, -1, 1, 0, 0, 0);
+
+
+/* Rectangle 34 */
+
+position: absolute;
+width: 3463px;
+height: 435px;
+left: 944px;
+top: calc(50% - 435px/2 - 207.5px);
+
+background: #FFFFFF;
+border: 15px solid #000000;
+border-radius: 45px;
+
+
+/* Star 5 */
+
+position: absolute;
+width: 1419.93px;
+height: 1327.82px;
+left: 1872.5px;
+top: 904px;
+
+background: #C4C4C4;
+
+
+/* Rectangle 34 */
+
+position: absolute;
+width: 3463px;
+height: 435px;
+left: 944px;
+top: calc(50% - 435px/2 - 986.5px);
+
+background: #FFFFFF;
+border: 15px solid #000000;
+border-radius: 45px;
+
+
+/* NOMBRE */
+
+position: absolute;
+width: 1082px;
+height: 262px;
+left: 944px;
+top: 2271px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 144px;
+line-height: 169px;
+
+color: #000000;
+
+
+
+/* APELLIDOS */
+
+position: absolute;
+width: 1082px;
+height: 262px;
+left: 944px;
+top: 3219px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 144px;
+line-height: 169px;
+
+color: #000000;
+
+
+
+/* Group 14 */
+
+position: absolute;
+width: 1463px;
+height: 258px;
+left: 1804px;
+top: 6617px;
+
+
+
+/* Rectangle 30 */
+
+position: absolute;
+width: 1463px;
+height: 258px;
+left: 1804px;
+top: 6617px;
+
+background: #FFC803;
+border-radius: 60px;
+
+
+/* REGISTRARSE */
+
+position: absolute;
+width: 834.69px;
+height: 47.72px;
+left: 2153px;
+top: 6698px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 96px;
+line-height: 112px;
+
+color: #000000;
+
+
+
+/* Rectangle 35 */
+
+position: absolute;
+width: 3463px;
+height: 435px;
+left: 944px;
+top: calc(50% - 435px/2 + 1483.5px);
+
+background: #FFFFFF;
+border: 15px solid #000000;
+border-radius: 45px;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 3463px;
+height: 435px;
+left: 944px;
+top: calc(50% - 435px/2 + 704.5px);
+
+background: #FFFFFF;
+border: 15px solid #000000;
+border-radius: 45px;
+
+
+/* CORREO */
+
+position: absolute;
+width: 1082px;
+height: 262px;
+left: 944px;
+top: 3962px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 144px;
+line-height: 169px;
+
+color: #000000;
+
+
+
+/* CONTRASEÑA */
+
+position: absolute;
+width: 1082px;
+height: 262px;
+left: 944px;
+top: 4910px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 144px;
+line-height: 169px;
+
+color: #000000;
+
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 3463px;
+height: 435px;
+left: 944px;
+top: calc(50% - 435px/2 + 2360.5px);
+
+background: #FFFFFF;
+border: 15px solid #000000;
+border-radius: 45px;
+
+
+/* NUMERO DE TELEFFONO */
+
+position: absolute;
+width: 1719px;
+height: 262px;
+left: 944px;
+top: 5787px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 144px;
+line-height: 169px;
+
+color: #000000;
+
