@@ -1,0 +1,379 @@
+:root {
+	--color-fuschia-100: rgba(239,93,168,1);
+	--color-fuschia-80: rgba(241,120,182,1);
+	--color-fuschia-60: rgba(252,221,236,1);
+	--color-iris-100: rgba(93,95,239,1);
+	--color-iris-80: rgba(120,121,241,1);
+	--color-iris-60: rgba(165,166,246,1);
+}
+.text-style-header-1 {
+	font-size:34px;
+	font-family:"Work Sans";
+	font-weight:bolder;
+	font-style:normal;
+	letter-spacing:-0.02em;
+	text-decoration:none;
+}
+.text-style-header-2 {
+	font-size:20px;
+	font-family:"Work Sans";
+	font-weight:bolder;
+	font-style:normal;
+	letter-spacing:-0.02em;
+	text-decoration:none;
+}
+.text-style-body {
+	font-size:13px;
+	font-family:"Work Sans";
+	font-weight:normal;
+	font-style:normal;
+	letter-spacing:-0.02em;
+	text-decoration:none;
+}
+
+/* Compra Realizada */
+
+position: relative;
+width: 4907px;
+height: 7662px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 4907px;
+height: 381px;
+left: 0px;
+top: 0px;
+
+background: rgba(12, 183, 242, 0.8);
+
+
+/* LOGO */
+
+position: absolute;
+width: 185px;
+height: 84px;
+left: 255px;
+top: 149px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 84px;
+
+color: #000000;
+
+
+
+/* INICIO */
+
+position: absolute;
+width: 587px;
+height: 172px;
+left: 986px;
+top: 147px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 84px;
+
+color: #000000;
+
+
+
+/* DESTINOS */
+
+position: absolute;
+width: 587px;
+height: 172px;
+left: 1449px;
+top: 147px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 84px;
+
+color: #000000;
+
+
+
+/* HOTELES */
+
+position: absolute;
+width: 679px;
+height: 162px;
+left: 1982px;
+top: 140px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 84px;
+
+color: #000000;
+
+border: 1px solid #000000;
+
+
+/* 14766-playa 1 */
+
+position: absolute;
+width: 4907px;
+height: 1159px;
+left: 0px;
+top: 470px;
+
+background: url(14766-playa.jpg);
+
+
+/* INICIAR SESION */
+
+position: absolute;
+width: 679px;
+height: 162px;
+left: 4172px;
+top: 140px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 84px;
+
+color: #000000;
+
+border: 1px solid #000000;
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 4937px;
+height: 435px;
+left: -30px;
+top: 1672px;
+
+background: rgba(255, 200, 3, 0.91);
+
+
+/* /*DESTINO*/ */
+
+position: absolute;
+width: 1229px;
+height: 162px;
+left: 165px;
+top: 1801px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 144px;
+line-height: 169px;
+
+color: #000000;
+
+border: 1px solid #000000;
+
+
+/* Footer */
+
+position: absolute;
+width: 5201px;
+height: 741px;
+left: 0px;
+top: 6921px;
+
+
+
+/* Footer */
+
+position: absolute;
+width: 4933.46px;
+height: 741px;
+left: 0px;
+top: 6921px;
+
+background: #E3D5AC;
+
+
+/* REDES SOCIALES */
+
+position: absolute;
+width: 1513.38px;
+height: 185px;
+left: 3687.62px;
+top: 7091px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 96px;
+line-height: 112px;
+
+color: #000000;
+
+
+
+/* LOGO 1 */
+
+position: absolute;
+width: 146.75px;
+height: 88px;
+left: 3715.57px;
+top: 7274px;
+
+background: url(LOGO.png);
+
+
+/* @REDSOCIAL INVENTADA */
+
+position: absolute;
+width: 798.62px;
+height: 76px;
+left: 3843.35px;
+top: 7286px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 56px;
+
+color: #000000;
+
+
+
+/* insta 1 */
+
+position: absolute;
+width: 149.74px;
+height: 116px;
+left: 3712.58px;
+top: 7376px;
+
+background: url(insta.png);
+
+
+/* @REDSOCIAL INVENTADA */
+
+position: absolute;
+width: 798.62px;
+height: 76px;
+left: 3843.35px;
+top: 7396px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 56px;
+
+color: #000000;
+
+
+
+/* Star 8 */
+
+position: absolute;
+width: 2982px;
+height: 1963px;
+left: 948px;
+top: 3809px;
+
+background: #C4C4C4;
+
+
+/* LOGO */
+
+position: absolute;
+width: 1168px;
+height: 615px;
+left: 2071px;
+top: 4606px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 288px;
+line-height: 338px;
+
+color: #000000;
+
+
+
+/* COMPRA REALIZADA: 30120391297319 */
+
+position: absolute;
+width: 1722px;
+height: 113px;
+left: 1614px;
+top: 3531px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 96px;
+line-height: 112px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Opciones del pedido */
+
+position: absolute;
+width: 1304px;
+height: 169px;
+left: 3026px;
+top: 6399px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 144px;
+line-height: 169px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Line 7 */
+
+position: absolute;
+width: 4556px;
+height: 0px;
+left: 189px;
+top: 6335px;
+
+border: 5px solid #000000;
+
+
+/* GRACIAS POR COMPRAR CON NOSOTROS */
+
+position: absolute;
+width: 2736px;
+height: 169px;
+left: 1107px;
+top: 2738px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 144px;
+line-height: 169px;
+/* identical to box height */
+
+color: #000000;
+
+
