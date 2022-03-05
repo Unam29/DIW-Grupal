@@ -9,7 +9,7 @@ module.exports = {
             colors: {
                 "azul-claro": "#0CB7F2",
                 "azul-oscuro": "#0370b9",
-                "naranja": "#D12D0F"
+                "amarillo": "#FFC803"
             },
             animation: {
                 'spin-slow': 'spin 3s linear infinite'
