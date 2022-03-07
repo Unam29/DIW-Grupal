@@ -9,7 +9,7 @@
  
 @layer components{
     .menu ul li{
-        @apply inline-block tracking-wide leading-loose mt-0 mr-5 mb-0 ml-5
+        @apply inline-block tracking-wide leading-loose mt-5 mr-5 mb-0 ml-5
     }
     .cityCard{
         @apply w-full  rounded-md flex flex-row p-3;
@@ -21,3 +21,4 @@
          @apply bg-cover rounded-md h-80;
      }
 }
+
