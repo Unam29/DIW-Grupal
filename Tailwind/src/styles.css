@@ -5,12 +5,21 @@
     .ciudad{
         background-image: url('../img/playa.jpg'); 
     }
+    .japon{
+        background-image: url('../img/japon.jpg'); 
+    }
+    .alemania{
+        background-image: url('../img/alemania.jpg'); 
+    }
 }
  
 @layer components{
+    /*Componente Menu*/
     .menu ul li{
         @apply inline-block tracking-wide leading-loose mt-5 mr-5 mb-0 ml-5
     }
+    /*Final componente menu*/
+    /*Inicio componente cartas*/
     .cityCard{
         @apply w-full  rounded-md flex flex-row p-3;
      }
@@ -24,6 +33,11 @@
         @apply bg-cover rounded-md h-64;
     }
     .boton{
-        @apply bg-amarillo rounded-md w-16 h-10;
+        @apply bg-amarillo rounded-md w-20 text-sm h-10;
+    }
+    /*Final componente cartas*/
+   
+    .lateral{
+        @apply w-72 min-h-full float-right mt-3 m-5; 
     }
 }
