@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+    .ciudad{
+        background-image: url('../img/playa.jpg'); 
+    }
+}
+ 
+@layer components{
+    .menu ul li{
+        @apply inline-block tracking-wide leading-loose mt-5 mr-5 mb-0 ml-5
+    }
+    .cityCard{
+        @apply w-full  rounded-md flex flex-row p-3;
+     }
+     .cityBackground{
+         @apply bg-white rounded-md shadow-lg overflow-hidden flex-1 flex flex-col
+     }
+     .cityImage{
+         @apply bg-cover rounded-md h-80;
+     }
+     .cityImageDestino{
+        @apply bg-cover rounded-md h-64;
+    }
+    .boton{
+        @apply bg-amarillo rounded-md w-16 h-10;
+    }
+}
