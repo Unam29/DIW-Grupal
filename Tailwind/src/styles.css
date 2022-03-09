@@ -11,6 +11,9 @@
     .alemania{
         background-image: url('../img/alemania.jpg'); 
     }
+    .barbados{
+        background-image: url('../img/barbados.jpg'); 
+    }
 }
  
 @layer components{
@@ -36,8 +39,20 @@
         @apply bg-amarillo rounded-md w-20 text-sm h-10;
     }
     /*Final componente cartas*/
-   
+   /*Inicio componente lateral*/
     .lateral{
         @apply w-72 min-h-full float-right mt-3 m-5; 
     }
+/*Final componente lateral*/
+/*Inicio componente comentarios*/
+    .comentarios h3{
+        @apply font-semibold leading-normal;
+    }
+    .comentarios img{
+        @apply h-24 object-cover rounded-full object-center;
+    }
+    .comentarios p{
+        @apply  mt-16 -ml-6;
+    }
 }
+/*Final componente comentarios*/
