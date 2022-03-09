@@ -20,4 +20,13 @@
      .cityImage{
          @apply bg-cover rounded-md h-80;
      }
+     .cityImageDestino{
+        @apply bg-cover rounded-md h-64;
+    }
+    .boton{
+        @apply bg-amarillo rounded-md w-16 h-10;
+    }
+    .botonReserva{
+        @apply bg-amarillo rounded-md w-44 h-24;
+    }
 }
