@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+    .ciudad{
+        background-image: url('../img/playa.jpg'); 
+    }
+    .japon{
+        background-image: url('../img/japon.jpg'); 
+    }
+    .alemania{
+        background-image: url('../img/alemania.jpg'); 
+    }
+    .barbados{
+        background-image: url('../img/barbados.jpg'); 
+    }
+}
+ 
+@layer components{
+    /*Componente Menu*/
+    .menu ul li{
+        @apply inline-block tracking-wide leading-loose mt-5 mr-5 mb-0 ml-5
+    }
+    /*Final componente menu*/
+    /*Inicio componente cartas*/
+    .cityCard{
+        @apply w-full  rounded-md flex flex-row p-3;
+     }
+     .cityBackground{
+         @apply bg-white rounded-md shadow-lg overflow-hidden flex-1 flex flex-col
+     }
+     .cityImage{
+         @apply bg-cover rounded-md h-80;
+     }
+     .cityImageDestino{
+        @apply bg-cover rounded-md h-64;
+    }
+    .boton{
+        @apply bg-amarillo rounded-md w-20 text-sm h-10;
+    }
+    /*Final componente cartas*/
+   /*Inicio componente lateral*/
+    .lateral{
+        @apply w-72 min-h-full float-right mt-3 m-5; 
+    }
+/*Final componente lateral*/
+/*Inicio componente comentarios*/
+    .comentarios h3{
+        @apply font-semibold leading-normal;
+    }
+    .comentarios img{
+        @apply h-24 object-cover rounded-full object-center;
+    }
+    .comentarios p{
+        @apply  mt-16 -ml-6;
+    }
+}
+/*Final componente comentarios*/
